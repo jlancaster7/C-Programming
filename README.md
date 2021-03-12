@@ -1,4 +1,4 @@
-# C-Programming
+# C-Programming Project
 
 This project was apart of the Duke University Introduction to C Programming Course.
 
